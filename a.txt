@@ -1,5 +1,8 @@
 aaa
 1111
 2222
+<<<<<<< HEAD
 5555
-mygit dev add 777
+mygit master add 777
+3333
+merge dev 9999
