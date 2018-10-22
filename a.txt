@@ -1,7 +1,0 @@
-aaa
-1111
-2222
-5555
-mygit master add 777
-3333
-merge dev 9999
